@@ -1,7 +1,5 @@
 /*
 Craig Poirier
-N01410520
-Assignment 3
 */
 
 import javafx.application.Application;
